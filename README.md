@@ -2,7 +2,7 @@
 A simple Rock-Paper-Scissors-Lizard-Spock game using python and OpenCV
 
 Algorithm:
-Rock Beats --> Scissors, Lizard
+Rock Beats --> Scissors, Lizard 
 Paper Beats --> Rock, Spock
 Scissors Beats --> Paper, Lizard
 Lizard Beats --> Spock, Paper

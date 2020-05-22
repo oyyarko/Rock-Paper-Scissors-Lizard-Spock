@@ -2,11 +2,12 @@
 A simple Rock-Paper-Scissors-Lizard-Spock game using python and OpenCV
 
 Algorithm:
-Rock Beats --> Scissors, Lizard |||
-Paper Beats --> Rock, Spock |||
-Scissors Beats --> Paper, Lizard |||
-Lizard Beats --> Spock, Paper |||
-Spock Beats--> Rock, Scissors |||
+1. Rock Beats --> Scissors, Lizard |||
+2. Paper Beats --> Rock, Spock |||
+3. Scissors Beats --> Paper, Lizard |||
+4. Lizard Beats --> Spock, Paper |||
+5. Spock Beats--> Rock, Scissors |||
+--------------------------------------------
 
 1. Use 400*400 emojis for computer's move
 2. For Video Explanation visit: https://youtu.be/0uSA3xyXlwM
